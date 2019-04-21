@@ -1,2 +1,2 @@
-# Week6-SQL-MatthewStewart
-Week 6 - Matthew Stewart - SQL Homework Submission
+# Week9-SQL-MatthewStewart
+Week 9 - Matthew Stewart - SQL Homework Submission
